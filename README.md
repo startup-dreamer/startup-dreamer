@@ -10,9 +10,9 @@
 
 - 🌱 I’m currently learning **About NFT, ERC20 Token**
 
-- 💬 Ask me about **Ethereum, Solidity, JavaScript**
+- 💬 Ask me about **Blockchain, Ethereum, Solidity**
 
-- 📫 How to reach me **s_kbharbhunja@me.iitr.ac.in**
+- 📫 How to reach me **[Email](s_kbharbhunja@me.iitr.ac.in), [LinkedIn](https://www.linkedin.com/in/startup1dreamer/)**
 
 - ⚡ Fun fact **I Love watching anime, sometimes into gaming, loves to listen hip-hop hiphop**
 
