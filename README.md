@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sumit Kumar aka Startup-Dreamer</h1>
-<h3 align="center">A passionate Web3 and Blockchain enthusiast</h3>
-<img align="right" alt="Coding" width="400" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif"></img>
+<h3 align="center"> <img align="centre" alt="Coding" width="40" height="40" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif"></img>A passionate Web3 and Blockchain enthusiast</h3>
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=startup-dreamer&label=Profile%20views&color=0e75b6&style=flat" alt="startup-dreamer" /> </p>
