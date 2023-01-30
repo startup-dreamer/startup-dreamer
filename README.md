@@ -6,7 +6,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=startup-dreamer&label=Profile%20views&color=eb4034&style=flat" alt="startup-dreamer" /> </p>
 
-<p align="left"> <a href="https://twitter.com/startup_dmr" target="blank"><img src="https://img.shields.io/twitter/follow/startup_dmr?logo=twitter&style=for-the-badge" alt="startup_dmr" /></a> </p>
 
 - 🌱 I’m currently learning **About NFT, ERC20 Token**
 
