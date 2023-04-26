@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **[Email](s_kbharbhunja@me.iitr.ac.in), [LinkedIn](https://www.linkedin.com/in/startup1dreamer/)**
 
-- ⚡ Fun fact **I Love watching anime, sometimes into gaming, loves to listen hip-hop hiphop**
+- ⚡ Fun fact **I Love watching anime, sometimes into gaming, loves to listen hip-hop**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
