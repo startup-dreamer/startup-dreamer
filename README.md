@@ -1,5 +1,5 @@
 <img align="centre" alt="Header gif" width="100%" height="400" src="https://res.cloudinary.com/jerrick/image/upload/v1551215986/vhzgzjsfma4jvruhk6un.gif"></img>
-<h1 align="center">Hi <img align="centre" alt="Coding" width="37" height="37" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></img>, I'm Sumit Kumar aka Startup-Dreamer</h1>
+<h1 align="center">Hi <img align="centre" alt="Coding" width="37" height="37" src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"></img>, I'm Sumit Kumar aka Kreiger</h1>
 <h3 align="center"> <img align="centre" alt="Coding" width="50" height="50" src="https://media.tenor.com/whgQwNlVvNkAAAAj/xero-code.gif"></img>A passionate Web3 and Blockchain Developer</h3>
 
 
