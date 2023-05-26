@@ -20,5 +20,5 @@
 <a href="https://twitter.com/startup_dmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="startup_dmr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/startup1dreamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="startup1dreamer" height="30" width="40" /></a>
 </p>
-[![GitHub Streak](https://streak-stats.demolab.com?user=startup-dreamer&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)]
+[![GitHub Streak]('https://streak-stats.demolab.com?user=startup-dreamer&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D')]('https://git.io/streak-stats')
 
