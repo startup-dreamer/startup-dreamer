@@ -19,8 +19,6 @@
 <p align="left">
 <a href="https://twitter.com/startup_dmr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="startup_dmr" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/startup1dreamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="startup1dreamer" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20905353/sumit-kumar" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="sumit-kumar" height="30" width="40" /></a>
-<a href="https://instagram.com/start.up_dreamer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="start.up_dreamer" height="30" width="40" /></a>
 </p>
 
 
