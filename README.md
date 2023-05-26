@@ -2,7 +2,10 @@
    <img src="https://github.com/startup-dreamer/startup-dreamer/assets/106421807/0159c9dd-78be-4086-a445-2e01553cf750" alt="Typing SVG" />
 </p>
    
-<p align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Times+new+Roman&weight=500&size=22&pause=1000&color=FB8C00&width=435&lines=Web3+Enthusiast+and+Blockchain+Developer;Building+projects%2C+Contributing+to+Open+Source" alt="Typing SVG" /></a>
+<p align="center">
+   <a href="https://git.io/typing-svg">
+      <img src="https://readme-typing-svg.demolab.com?font=Times+new+Roman&weight=500&size=22&pause=1000&color=FB8C00&vCenter=true&width=440&height=45&lines=Web3+Enthusiast+and+Blockchain+Developer;Building+projects%2C+Contributing+to+Open+Source" alt="Typing SVG" />
+   </a>
 </p>
 
 <p align="center">
