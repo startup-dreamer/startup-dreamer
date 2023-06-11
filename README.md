@@ -18,5 +18,8 @@
 <br>
 <br>
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=startup-dreamer&theme=highcontrast&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=startup-dreamer&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&border_color=6495ED" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=startup-dreamer&theme=vision-friendly-dark&hide_border=false&border_color=ffffff" alt="GitHub Stats" />
 </p>
