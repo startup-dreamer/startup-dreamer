@@ -26,4 +26,14 @@
 <!-- <br/><br/>
 <a herf='https://github.com/startup-dreamer/NFT-Lending-Borrowing-protocol'>
   <img  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=startup-dreamer&repo=NFT-Lending-Borrowing-protocol&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&border_color=6495ED&title_color=ffffff" alt="GitHub Stats" /></a> -->
+&nbsp;
+  
+  ### Projects/Contrbutions
 
+- [rust-bitcoin][rust-bitcoin] (contributor)
+- [rust-miniscript][rust-miniscript] (contributor)
+- [LedgerHQ][LedgerHQ] (contributor)
+
+  [rust-bitcoin]: https://github.com/rust-bitcoin/rust-bitcoin/pull/1882
+  [rust-miniscript]: https://github.com/rust-bitcoin/rust-miniscript/pull/539
+  [LedgerHQ]: https://github.com/LedgerHQ/app-bitcoin-new/pull/118
