@@ -30,10 +30,21 @@
   
   ### Projects/Contrbutions
 
+#### Contributions   
 - [rust-bitcoin][rust-bitcoin] (contributor)
 - [rust-miniscript][rust-miniscript] (contributor)
 - [LedgerHQ][LedgerHQ] (contributor)
 
+#### Projects
+- [Aurum-Protocol][] (Author)
+- [FractionX] (Author)
+- [Staking-Reward][Staking-Reward] (Author)
+- [NFTCollab][NFTCollab] (Author) (Building)
+
   [rust-bitcoin]: https://github.com/rust-bitcoin/rust-bitcoin/pull/1882
   [rust-miniscript]: https://github.com/rust-bitcoin/rust-miniscript/pull/539
   [LedgerHQ]: https://github.com/LedgerHQ/app-bitcoin-new/pull/118
+  [Aurum-Protocol]: https://github.com/startup-dreamer/NFT-Lending-Borrowing-protocol
+  [FractionX]: https://github.com/startup-dreamer/FractionX
+  [Staking-Reward]: https://github.com/startup-dreamer/StakingReward
+  [NFTCollab]: https://github.com/startup-dreamer/NFT-P2P
