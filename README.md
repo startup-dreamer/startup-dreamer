@@ -41,9 +41,9 @@
 - [Staking-Reward][Staking-Reward] (Author)
 - [NFTCollab][NFTCollab] (Author) (Building)
 
-  [rust-bitcoin]: https://github.com/rust-bitcoin/rust-bitcoin/pull/1882
-  [rust-miniscript]: https://github.com/rust-bitcoin/rust-miniscript/pull/539
-  [LedgerHQ]: https://github.com/LedgerHQ/app-bitcoin-new/pull/118
+  [rust-bitcoin]: https://github.com/rust-bitcoin/rust-bitcoin/pulls?q=is%3Apr+author%3Astartup-dreamer+
+  [rust-miniscript]: https://github.com/rust-bitcoin/rust-miniscript/pulls?q=is%3Apr+author%3Astartup-dreamer+
+  [LedgerHQ]: https://github.com/LedgerHQ/app-bitcoin-new/pulls?q=is%3Apr+author%3Astartup-dreamer+
   [Aurum-Protocol]: https://github.com/startup-dreamer/NFT-Lending-Borrowing-protocol
   [FractionX]: https://github.com/startup-dreamer/FractionX
   [Staking-Reward]: https://github.com/startup-dreamer/StakingReward
