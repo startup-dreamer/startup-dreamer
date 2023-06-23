@@ -38,8 +38,8 @@
 #### Projects
 - [Aurum-Protocol][] (Author)
 - [FractionX] (Author)
-- [Staking-Reward][Staking-Reward] (Author)
-- [NFTCollab][NFTCollab] (Author) (Building)
+<!-- - [Staking-Reward][Staking-Reward] (Author)
+- [NFTCollab][NFTCollab] (Author) (Building) -->
 
   [rust-bitcoin]: https://github.com/rust-bitcoin/rust-bitcoin/pulls?q=is%3Apr+author%3Astartup-dreamer+
   [rust-miniscript]: https://github.com/rust-bitcoin/rust-miniscript/pulls?q=is%3Apr+author%3Astartup-dreamer+
