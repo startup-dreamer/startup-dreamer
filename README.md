@@ -31,7 +31,7 @@
   ### Projects/Contrbutions
 
 #### Contributions 
-- [starknet-beerus][starknet-beerus] (contributing)
+<!-- - [starknet-beerus][starknet-beerus] (contributing) -->
 - [rust-bitcoin][rust-bitcoin] (contributor)
 - [rust-miniscript][rust-miniscript] (contributor)
 - [LedgerHQ][LedgerHQ] (contributor)
