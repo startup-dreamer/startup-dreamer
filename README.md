@@ -32,6 +32,7 @@
 
 #### Contributions 
 <!-- - [starknet-beerus][starknet-beerus] (contributing) -->
+- [lambdaworks][lambdaworks] (contributor)
 - [rust-bitcoin][rust-bitcoin] (contributor)
 - [rust-miniscript][rust-miniscript] (contributor)
 - [LedgerHQ][LedgerHQ] (contributor)
@@ -41,7 +42,7 @@
 - [FractionX] (Author)
 <!-- - [Staking-Reward][Staking-Reward] (Author)
 - [NFTCollab][NFTCollab] (Author) (Building) -->
-
+  [lambdaworks]: https://github.com/lambdaclass/lambdaworks/pulls/startup-dreamer
   [starknet-beerus]: https://github.com/keep-starknet-strange/beerus/issues?q=is%3Aopen+assignee%3A%40me
   [rust-bitcoin]: https://github.com/rust-bitcoin/rust-bitcoin/pulls?q=is%3Apr+author%3Astartup-dreamer+
   [rust-miniscript]: https://github.com/rust-bitcoin/rust-miniscript/pulls?q=is%3Apr+author%3Astartup-dreamer+
