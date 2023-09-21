@@ -25,7 +25,7 @@
   <img  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=startup-dreamer&repo=NFT-Lending-Borrowing-protocol&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&border_color=6495ED&title_color=ffffff" alt="GitHub Stats" /></a> -->
 &nbsp;
   
-  ### Projects/Contrbutions
+### Projects/Contrbutions
 
 #### Contributions 
 <!-- - [starknet-beerus][starknet-beerus] (contributing) -->
