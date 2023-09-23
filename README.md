@@ -46,7 +46,7 @@
   [rust-bitcoin]: https://github.com/rust-bitcoin/rust-bitcoin/pulls?q=is%3Apr+author%3Astartup-dreamer+
   [rust-miniscript]: https://github.com/rust-bitcoin/rust-miniscript/pulls?q=is%3Apr+author%3Astartup-dreamer+
   [LedgerHQ]: https://github.com/LedgerHQ/app-bitcoin-new/pulls?q=is%3Apr+author%3Astartup-dreamer+
-  [Aurum-Protocol]: https://github.com/startup-dreamer/NFT-Lending-Borrowing-protocol
+  [Aurum-Protocol]: https://github.com/Aurum-Platform
   [FractionX]: https://github.com/startup-dreamer/FractionX
   [Staking-Reward]: https://github.com/startup-dreamer/StakingReward
   [NFTCollab]: https://github.com/startup-dreamer/NFT-P2P
