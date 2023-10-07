@@ -36,7 +36,7 @@
 
 #### Projects
 - [Aurum-Protocol][] (Author)
-- [FractionX] (Author)
+- [Tx-Hash-Decoder][] (Author)
 <!-- - [Staking-Reward][Staking-Reward] (Author)
 - [rust-miniscript][rust-miniscript] (contributor)
 - [NFTCollab][NFTCollab] (Author) (Building) -->
@@ -47,6 +47,7 @@
   [rust-miniscript]: https://github.com/rust-bitcoin/rust-miniscript/pulls?q=is%3Apr+author%3Astartup-dreamer+
   [LedgerHQ]: https://github.com/LedgerHQ/app-bitcoin-new/pulls?q=is%3Apr+author%3Astartup-dreamer+
   [Aurum-Protocol]: https://github.com/Aurum-Platform
+  [tx-hash-decoder]: https://github.com/startup-dreamer/tx-hash-decoder
   [FractionX]: https://github.com/startup-dreamer/FractionX
   [Staking-Reward]: https://github.com/startup-dreamer/StakingReward
   [NFTCollab]: https://github.com/startup-dreamer/NFT-P2P
