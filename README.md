@@ -35,9 +35,9 @@
 - [LedgerHQ][LedgerHQ] (contributor)
 
 #### Projects
-- [Aurum-Protocol][] (Author) (Open Data Hack winner)
 - [Tx-Hash-Decoder][] (Author)
 <!-- - [Staking-Reward][Staking-Reward] (Author)
+- [Aurum-Protocol][] (Author) (Open Data Hack winner)
 - [rust-miniscript][rust-miniscript] (contributor)
 - [NFTCollab][NFTCollab] (Author) (Building) -->
   [rust-libp2p]: https://github.com/libp2p/rust-libp2p/pulls?q=is%3Apr+author%3Astartup-dreamer+
