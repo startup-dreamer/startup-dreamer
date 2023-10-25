@@ -35,7 +35,7 @@
 - [LedgerHQ][LedgerHQ] (contributor)
 
 #### Projects
-- [Aurum-Protocol][] (Author)
+- [Aurum-Protocol][] (Author) (Open Data Hack winner)
 - [Tx-Hash-Decoder][] (Author)
 <!-- - [Staking-Reward][Staking-Reward] (Author)
 - [rust-miniscript][rust-miniscript] (contributor)
