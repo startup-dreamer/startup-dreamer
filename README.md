@@ -11,7 +11,7 @@
 <p align="center">
   <a href="https://twitter.com/Startup_dmr"><img width="32px" alt="Twitter" title="Twitter" src="https://github-production-user-asset-6210df.s3.amazonaws.com/106421807/241289520-185b2438-c597-4270-83aa-5be4c8edd76a.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-<!--   <a href="https://www.linkedin.com/in/startup1dreamer/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github-production-user-asset-6210df.s3.amazonaws.com/106421807/241289611-ce32af85-b56e-46e0-9403-f023f03cc6ca.png"/></a> -->
+  <a href="https://www.linkedin.com/in/startup1dreamer/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://github-production-user-asset-6210df.s3.amazonaws.com/106421807/241289611-ce32af85-b56e-46e0-9403-f023f03cc6ca.png"/></a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
 </p>
 <br>
