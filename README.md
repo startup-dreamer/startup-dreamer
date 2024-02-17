@@ -24,12 +24,10 @@
   <img  align="left" src="https://github-readme-stats.vercel.app/api/pin/?username=startup-dreamer&repo=NFT-Lending-Borrowing-protocol&theme=vision-friendly-dark&hide_border=false&include_all_commits=true&count_private=true&border_color=6495ED&title_color=ffffff" alt="GitHub Stats" /></a> -->
   
 ## I speak in rust and solidity
-  
-### Projects/Contrbutions
-
 
 ### Contrbutions
 
+- [bdk][bdk] (contributor)
 - [rust-bitcoin][rust-bitcoin] (contributor)
 - [rust-libp2p][rust-libp2p] (contributor)
 - [lambdaworks][lambdaworks] (contributor)
@@ -41,11 +39,11 @@
 - [Aurum-Protocol][aurum] (Opendata Hack by Filecoin)
 
   
-[bdk]: https://github.com/bitcoindevkit/bdk/pulls/0xkrieger
+[bdk]: https://github.com/bitcoindevkit/bdk/pulls?q=is%3Apr+author%3Astartup-dreamer
 [rust-bitcoin-new]: https://github.com/rust-bitcoin/rust-bitcoin/pulls?q=is%3Apr+author%3A0xkrieger+is%3Aclosed
-[rust-bitcoin]: https://github.com/rust-bitcoin/rust-bitcoin/commits/master/?author=startup-dreamer
-[rust-libp2p]: https://github.com/libp2p/rust-libp2p/commits/master/?author=startup-dreamer
-[lambdaworks]: https://github.com/lambdaclass/lambdaworks/commits/main/?author=startup-dreamer
+[rust-bitcoin]: https://github.com/rust-bitcoin/rust-bitcoin/pulls?q=is%3Apr+author%3Astartup-dreamer
+[rust-libp2p]: https://github.com/libp2p/rust-libp2p/pulls?q=is%3Apr+author%3Astartup-dreamer+
+[lambdaworks]: https://github.com/lambdaclass/lambdaworks/pulls?q=is%3Apr+author%3Astartup-dreamer+
 [loannex]: https://devfolio.co/projects/loannex-b159
 [arcave]: https://devfolio.co/projects/arcave-e8c0
 [aurum]: https://github.com/Aurum-Platform
