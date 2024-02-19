@@ -33,10 +33,10 @@
 - [lambdaworks][lambdaworks] (contributor)
 
 ### Projects
-- [Arcave][arcave] (ETHIndia 2023)
-- [BlockCraft][blockcraft] (ETHOnline 2023)
-- [LoanNex][loannex] (Hackerverse)
-- [Aurum-Protocol][aurum] (Opendata Hack by Filecoin)
+- [Arcave][arcave] (ETHIndia 2023) (Huddle01 Metaverse Track)
+- [BlockCraft][blockcraft] (ETHOnline 2023) (Scroll Pool Prize)
+- [LoanNex][loannex] (Hackerverse) (Best Defi 3rd Solo)
+- [Aurum-Protocol][aurum] (Opendata Hack by Filecoin) (Chainlink Other Services Solo)
 
   
 [bdk]: https://github.com/bitcoindevkit/bdk/pulls?q=is%3Apr+author%3Astartup-dreamer
