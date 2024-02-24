@@ -33,6 +33,7 @@
 - [lambdaworks][lambdaworks] (contributor)
 
 ### Projects
+- [InfoNex][info] (AI X DeFi Cook-off | Oraichain) (AI X Blockchain Ideas Solo)
 - [Arcave][arcave] (ETHIndia 2023) (Huddle01 Metaverse Track)
 - [BlockCraft][blockcraft] (ETHOnline 2023) (Scroll Pool Prize)
 - [LoanNex][loannex] (Hackerverse) (Best Defi 3rd Solo)
@@ -48,5 +49,6 @@
 [arcave]: https://devfolio.co/projects/arcave-e8c0
 [aurum]: https://github.com/Aurum-Platform
 [blockcraft]: https://ethglobal.com/showcase/blockcraft-chrq5
+[info]: https://dorahacks.io/buidl/9180
 
 
