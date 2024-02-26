@@ -33,11 +33,11 @@
 - [lambdaworks][lambdaworks] (contributor)
 
 ### Projects
-- [InfoNex][info] (AI X DeFi Cook-off | Oraichain) (AI X Blockchain Ideas Solo)
+- [InfoNex][info] (AI X DeFi Cook-off | Oraichain) (AI X Blockchain Ideas)
 - [Arcave][arcave] (ETHIndia 2023) (Huddle01 Metaverse Track)
 - [BlockCraft][blockcraft] (ETHOnline 2023) (Scroll Pool Prize)
-- [LoanNex][loannex] (Hackerverse) (Best Defi 3rd Solo)
-- [Aurum-Protocol][aurum] (Opendata Hack by Filecoin) (Chainlink Other Services Solo)
+- [LoanNex][loannex] (Hackerverse) (Best Defi 3rd)
+- [Aurum-Protocol][aurum] (Opendata Hack by Filecoin) (Chainlink Other Services)
 
   
 [bdk]: https://github.com/bitcoindevkit/bdk/pulls?q=is%3Apr+author%3Astartup-dreamer
