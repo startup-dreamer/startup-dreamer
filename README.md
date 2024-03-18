@@ -27,7 +27,6 @@
 
 ### Contrbutions
 
-- [bdk][bdk] (contributor)
 - [rust-bitcoin][rust-bitcoin] (contributor)
 - [rust-libp2p][rust-libp2p] (contributor)
 - [lambdaworks][lambdaworks] (contributor)
