@@ -32,6 +32,7 @@
 - [lambdaworks][lambdaworks] (contributor)
 
 ### Projects
+- [Chess-Play][play] (Scaling Web3 Hackathon by Encode)
 - [InfoNex][info] (AI X DeFi Cook-off | Oraichain) (AI X Blockchain Ideas)
 - [Arcave][arcave] (ETHIndia 2023) (Huddle01 Metaverse Track)
 - [BlockCraft][blockcraft] (ETHOnline 2023) (Scroll Pool Prize)
@@ -49,5 +50,6 @@
 [aurum]: https://github.com/Aurum-Platform
 [blockcraft]: https://ethglobal.com/showcase/blockcraft-chrq5
 [info]: https://dorahacks.io/buidl/9180
+[play]: https://github.com/SayantanBong007/Chess_Play
 
 
