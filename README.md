@@ -25,6 +25,8 @@
   
 ## I speak in rust and solidity
 
+### Solana Fellow, Developer at Neobase.
+
 ### Contrbutions
 
 - [rust-bitcoin][rust-bitcoin] (contributor)
