@@ -25,7 +25,7 @@
   
 ## I speak in rust and solidity
 
-### Solana Fellow, Developer at Neobase.
+### [Solana Fellow](https://summer.superteam.fun/), Developer at [Neobase](https://x.com/NeoBase_Studios)
 
 ### Contrbutions
 
