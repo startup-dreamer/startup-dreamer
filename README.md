@@ -45,7 +45,7 @@
   
 [bdk]: https://github.com/bitcoindevkit/bdk/pulls?q=is%3Apr+author%3Astartup-dreamer
 [rust-bitcoin-new]: https://github.com/rust-bitcoin/rust-bitcoin/pulls?q=is%3Apr+author%3A0xkrieger+is%3Aclosed
-[rust-bitcoin]: https://github.com/rust-bitcoin/rust-bitcoin/pulls?q=is%3Apr+author%3Astartup-dreamer
+[rust-bitcoin]: https://github.com/rust-bitcoin/rust-bitcoin/commits/master/?author=startup-dreamer
 [rust-libp2p]: https://github.com/libp2p/rust-libp2p/pulls?q=is%3Apr+author%3Astartup-dreamer+
 [lambdaworks]: https://github.com/lambdaclass/lambdaworks/pulls?q=is%3Apr+author%3Astartup-dreamer+
 [loannex]: https://devfolio.co/projects/loannex-b159
