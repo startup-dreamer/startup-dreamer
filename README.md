@@ -28,7 +28,8 @@
 ### [Solana Fellow](https://summer.superteam.fun/), Developer at [Neobase](https://x.com/NeoBase_Studios)
 
 ### Contrbutions
-
+- [foundry][foundry] (contributor)
+- [alloy][alloy] (contributor)
 - [rust-bitcoin][rust-bitcoin] (contributor)
 - [rust-libp2p][rust-libp2p] (contributor)
 - [lambdaworks][lambdaworks] (contributor)
@@ -44,6 +45,8 @@
 
   
 [bdk]: https://github.com/bitcoindevkit/bdk/pulls?q=is%3Apr+author%3Astartup-dreamer
+[alloy]: https://github.com/alloy-rs/alloy/pulls?q=is%3Apr+author%3Astartup-dreamer
+[foundry]: https://github.com/foundry-rs/foundry/pulls?q=is%3Apr+author%3Astartup-dreamer
 [rust-bitcoin-new]: https://github.com/rust-bitcoin/rust-bitcoin/pulls?q=is%3Apr+author%3A0xkrieger+is%3Aclosed
 [rust-bitcoin]: https://github.com/rust-bitcoin/rust-bitcoin/commits/master/?author=startup-dreamer
 [rust-libp2p]: https://github.com/libp2p/rust-libp2p/pulls?q=is%3Apr+author%3Astartup-dreamer+
