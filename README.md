@@ -30,6 +30,8 @@
 ### Contrbutions
 - [foundry][foundry] (contributor)
 - [alloy][alloy] (contributor)
+- [revm][revm] (contributor)
+- [trie][trie] (contributor)
 - [rust-bitcoin][rust-bitcoin] (contributor)
 - [rust-libp2p][rust-libp2p] (contributor)
 - [lambdaworks][lambdaworks] (contributor)
@@ -46,6 +48,8 @@
   
 [bdk]: https://github.com/bitcoindevkit/bdk/pulls?q=is%3Apr+author%3Astartup-dreamer
 [alloy]: https://github.com/alloy-rs/alloy/pulls?q=is%3Apr+author%3Astartup-dreamer
+[revm]: https://github.com/bluealloy/revm/pulls?q=is%3Apr+author%3Astartup-dreamer
+[trie]: https://github.com/alloy-rs/trie/pulls?q=is%3Apr+author%3Astartup-dreamer
 [foundry]: https://github.com/foundry-rs/foundry/pulls?q=is%3Apr+author%3Astartup-dreamer
 [rust-bitcoin-new]: https://github.com/rust-bitcoin/rust-bitcoin/pulls?q=is%3Apr+author%3A0xkrieger+is%3Aclosed
 [rust-bitcoin]: https://github.com/rust-bitcoin/rust-bitcoin/commits/master/?author=startup-dreamer
