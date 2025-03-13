@@ -30,6 +30,7 @@
 ### Contrbutions
 - [foundry][foundry] (contributor)
 - [alloy][alloy] (contributor)
+- [lighthouse][lighthouse] (contributor)
 - [reth][reth] (contributor)
 - [revm][revm] (contributor)
 - [trie][trie] (contributor)
@@ -49,6 +50,7 @@
   
 [bdk]: https://github.com/bitcoindevkit/bdk/pulls?q=is%3Apr+author%3Astartup-dreamer
 [alloy]: https://github.com/alloy-rs/alloy/pulls?q=is%3Apr+author%3Astartup-dreamer
+[lighthouse]: https://github.com/sigp/lighthouse/pulls?q=is%3Apr+author%3Astartup-dreamer
 [reth]: https://github.com/paradigmxyz/reth/pulls?q=is%3Apr+author%3Astartup-dreamer
 [revm]: https://github.com/bluealloy/revm/pulls?q=is%3Apr+author%3Astartup-dreamer
 [trie]: https://github.com/alloy-rs/trie/pulls?q=is%3Apr+author%3Astartup-dreamer
