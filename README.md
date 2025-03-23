@@ -28,14 +28,24 @@
 ### [Solana Fellow](https://summer.superteam.fun/), Developer at [Neobase](https://x.com/NeoBase_Studios)
 
 ### Contrbutions
-- [foundry][foundry] (contributor)
-- [alloy][alloy] (contributor)
+
+#### Clients
 - [lighthouse][lighthouse] (contributor)
 - [reth][reth] (contributor)
+
+#### Ethereum Libraries
+- [alloy][alloy] (contributor)
 - [revm][revm] (contributor)
 - [trie][trie] (contributor)
-- [rust-bitcoin][rust-bitcoin] (contributor)
+
+#### EVM Tooling
+- [foundry][foundry] (contributor)
+
+#### CL Networking
 - [rust-libp2p][rust-libp2p] (contributor)
+
+#### Other Libraries
+- [rust-bitcoin][rust-bitcoin] (contributor)
 - [lambdaworks][lambdaworks] (contributor)
 
 ### Projects
