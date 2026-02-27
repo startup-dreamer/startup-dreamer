@@ -25,7 +25,6 @@
   
 ## I speak in rust and solidity
 
-### [Solana Fellow](https://summer.superteam.fun/)
 ### You can find my writings here: [articles](https://medium.com/@Krieger69)
 
 ### Contrbutions
