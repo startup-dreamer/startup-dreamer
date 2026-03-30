@@ -49,6 +49,7 @@
 - [lambdaworks][lambdaworks] (contributor)
 
 ### Projects
+- [x402-chainlink][chainlink] (convergence biggest chainlink hackathon)
 - [Worm-Deployer][deployer] (Encode x Wormhole Hackathon)
 - [Chess-Play][play] (Scaling Web3 Hackathon by Encode Club)
 - [InfoNex][info] (AI X DeFi Cook-off | Oraichain) (AI X Blockchain Ideas)
@@ -70,6 +71,7 @@
 [rust-libp2p]: https://github.com/libp2p/rust-libp2p/pulls?q=is%3Apr+author%3Astartup-dreamer+
 [lambdaworks]: https://github.com/lambdaclass/lambdaworks/pulls?q=is%3Apr+author%3Astartup-dreamer+
 [loannex]: https://devfolio.co/projects/loannex-b159
+[chainlink]: https://github.com/startup-dreamer/x402-chainlink
 [arcave]: https://devfolio.co/projects/arcave-e8c0
 [aurum]: https://github.com/Aurum-Platform
 [blockcraft]: https://ethglobal.com/showcase/blockcraft-chrq5
