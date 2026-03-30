@@ -49,7 +49,7 @@
 - [lambdaworks][lambdaworks] (contributor)
 
 ### Projects
-- [x402-chainlink][chainlink] (convergence biggest chainlink hackathon)
+- [x402-chainlink][chainlink] (Convergence a Chainlink Hackathon)
 - [Worm-Deployer][deployer] (Encode x Wormhole Hackathon)
 - [Chess-Play][play] (Scaling Web3 Hackathon by Encode Club)
 - [InfoNex][info] (AI X DeFi Cook-off | Oraichain) (AI X Blockchain Ideas)
